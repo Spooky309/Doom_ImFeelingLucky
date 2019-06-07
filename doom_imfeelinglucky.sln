@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doom_imfeelinglucky", "doom_imfeelinglucky\doom_imfeelinglucky.csproj", "{404F5D07-EC21-4574-942C-CED14A3DAAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404F5D07-EC21-4574-942C-CED14A3DAAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404F5D07-EC21-4574-942C-CED14A3DAAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404F5D07-EC21-4574-942C-CED14A3DAAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404F5D07-EC21-4574-942C-CED14A3DAAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A427CE7D-E41B-44A2-91E3-1E927F1B0136}
+	EndGlobalSection
+EndGlobal
